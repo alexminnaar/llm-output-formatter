@@ -7,8 +7,6 @@ This is a simple React app that lets you enter a prompt on the left, sends it to
 - ✅ Syntax-highlighted code blocks
 - ✅ Streaming responses from OpenAI
 
-![screenshot](screenshot.png) <!-- Optional screenshot -->
-
 ---
 
 ## 🚀 Getting Started
