@@ -1,6 +1,6 @@
 # Streaming LLM Markdown Formatting Example Project
 
-This is a simple React app that lets you enter a prompt on the left, sends it to the OpenAI API, and streams back the result as rendered Markdown on the right. It supports:
+This is a simple React app that lets you enter a prompt on the left, sends it to the OpenAI API, and streams back the result as rendered Markdown on the right.  Formatting is done in a similar fashion to [HinterviewGPT](https://hinterviewgpt.com/). It supports:
 
 - ✅ Markdown formatting
 - ✅ LaTeX (via KaTeX)
